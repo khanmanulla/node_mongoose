@@ -13,3 +13,7 @@ Open index.js in a text editor and write a simple Node.js application. For examp
 
 Step 4: Run the Node.js application
 node index.js
+
+Step 5: Run the Node.js application with nodemon
+nodemon index.js
+

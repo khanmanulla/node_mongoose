@@ -7,7 +7,7 @@ const port = 3000;
 app.use(bodyParser.json());
 
 app.get('/', (req, res) => {
-  res.send('Welcome to home page')
+  res.send('Welcome to this is home mndka page')
 })
 
 app.listen(port, ()=>{
