@@ -1,0 +1,22 @@
+{
+  "name": "node_mongoose",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanmanulla/node_mongoose.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanmanulla/node_mongoose/issues"
+  },
+  "homepage": "https://github.com/khanmanulla/node_mongoose#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
