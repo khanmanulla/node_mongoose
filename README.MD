@@ -17,3 +17,18 @@ node index.js
 Step 5: Run the Node.js application with nodemon
 nodemon index.js
 
+project-root/
+│
+├── index.js          // Entry point of your application
+│
+├── config/
+│   └── db.js         // Database connection setup (Mongoose)
+│
+├── models/
+│   └── user.js       // User schema and model
+│
+├── routes/
+│   └── users.js      // User routes
+│
+└── controllers/
+    └── userController.js  // Logic for user operations
