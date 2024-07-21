@@ -17,6 +17,7 @@
   "homepage": "https://github.com/khanmanulla/node_mongoose#readme",
   "description": "",
   "dependencies": {
+    "body-parser": "^1.20.2",
     "express": "^4.19.2"
   }
 }
